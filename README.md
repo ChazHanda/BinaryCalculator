@@ -18,5 +18,5 @@ This project is designed to be simple, with potential to expand.
 
 ## Project Layout
 
-![Breadboard](BreadBoard.png)
+![Breadboard](BreadBoard2.png)
 
