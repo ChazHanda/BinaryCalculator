@@ -20,3 +20,6 @@ This project is designed to be simple, with potential to expand.
 
 ![Breadboard](BreadBoard2.png)
 
+## Picture of Project
+
+![Picture](20260803_164510.jpg)
