@@ -22,4 +22,4 @@ This project is designed to be simple, with potential to expand.
 
 ## Picture of Project
 
-![Picture](20260803_164510.jpg)
+![Picture](20260810_163452.jpg)
