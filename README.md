@@ -24,6 +24,7 @@ This project is designed to be simple, with potential to expand.
 ## Picture of Project
 
 ![Picture](20260810_163452.jpg)
+The counter at the maximum display count (63)
 
 ## Code Uploaded to Teensy 3.2
 
