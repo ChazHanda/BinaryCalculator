@@ -34,7 +34,7 @@ Overflow or underflow will flash the built-in LED and wrap around 0 and 63.
 
 ## Picture of Project
 
-![Picture](20260810_163452.jpg)
+![Picture](20260818_153241.jpg)
 The counter at the maximum display count (63)
 
 ## Code Uploaded to Teensy 3.2
