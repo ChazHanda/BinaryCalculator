@@ -2,7 +2,7 @@
 A practice project using a Teensy 3.2 Arduino board
 
 ## Project Description
-A simple calculator using a Teensy 3.2 Arduino board, a button, and LEDs. The project is based on the previous project, [BinaryCounter](https://github.com/ChazHanda/BinaryCounter). The LEDs are a display that represents the values 0-63 in binary. 
+A simple calculator using a Teensy 3.2 Arduino board, a button, and LEDs. The project is based on the previous project, [BinaryCounter](https://github.com/ChazHanda/BinaryCounter). The LEDs are a display that represents the values 0-63 in binary. The digital display will mirror the binary display until a value is calculated.
 
 The first three upper buttons increase the counter by 1, 4, and 16, respectively. 
 
@@ -38,7 +38,7 @@ Overflow or underflow will flash the built-in LED and wrap around 0 and 63 or 0 
 
 ## Picture of Project
 
-![Picture](20260818_153241.jpg)
+![Picture](20260830_142102.jpg)
 The counter at the maximum display count (63)
 
 ## Code Uploaded to Teensy 3.2
