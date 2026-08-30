@@ -12,9 +12,9 @@ The fourth upper button functions similarly to the '+' on a calculator. It will 
 
 The fourth lower button functions similarly to the '-' on a calculator. It will store the current value represented by LEDs and reset them to '0'. The next value input will be subtracted from any existing stored value.
 
-The fifth lower button functions similarly to the '=' on a calculator. It will attempt to display the stored value. If the stored value is under 0 or above 63, the value will wrap around, and the built-in LED will flash.
+The fifth lower button functions similarly to the '=' on a calculator. It will attempt to display the stored value on the digital display. If the stored value is under 0 or above 100, the value will wrap around, and the built-in LED will flash.
 
-Overflow or underflow will flash the built-in LED and wrap around 0 and 63. 
+Overflow or underflow will flash the built-in LED and wrap around 0 and 63 or 0 and 99. 
 
 
 ## Components 
@@ -23,14 +23,18 @@ Overflow or underflow will flash the built-in LED and wrap around 0 and 63.
 - Breadboard
 - 6 LEDs
 - 6 x 220 Ohm resistors
+- 7 x 330 Ohm resistors
+- 2 x 1k Ohm resistors
+- 2x 2n2222 transistors
 - 9 push buttons
+- 1 3621AS 7-segment digital display
 - 2 14-pin sections of male header pins
 - Jumper wires
 
 
 ## Project Layout
 
-![Breadboard](BreadBoard3.png)
+![Breadboard](BreadBoard4.png)
 
 ## Picture of Project
 
