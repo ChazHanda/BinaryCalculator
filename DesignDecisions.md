@@ -23,3 +23,7 @@ I considered trimming the resistor leads, but I left them at full length in case
 ## Jumper cable layout
 
 Some of the jumper cables (like the ones going to ground from the buttons) are angled due to jumper cable lengths. When possible, I try to use the same color/length cable for the same purpose.
+
+## 2-digit display
+
+I settled on a 2-digit display because it uses all the remaining pins I have. 
